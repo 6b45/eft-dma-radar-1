@@ -10,7 +10,7 @@
 
         public const uint PlayerBase_Profile = 0x4B8;
         public const uint PlayerBase_MovementContext = 0x40;
-        public const uint PlayerBase_IsLocalPlayer = 0x7FB;
+        public const uint PlayerBase_IsLocalPlayer = 0x7EF;
         public static readonly uint[] PlayerBase_HealthController = new uint[] { 0x4F0, 0x50, Offsets.UnityDictBase };
 
         public const uint MovementContext_Direction = 0x22C;

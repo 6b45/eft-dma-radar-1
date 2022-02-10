@@ -1,0 +1,12 @@
+{
+	"x": 1444,
+	"y": 586,
+	"z": 0,
+	"scale": 1.29,
+	"maps": [
+		{
+			"Item1": -100,
+			"Item2": "Maps\\Interchange.png"
+		}
+	]
+}
